@@ -1,20 +1,19 @@
-# TryHackMe: Blue Room Writeup
+# TryHackMe Progress
 
-## Objective
-Exploit a vulnerable Windows machine to gain user and root access.
+I’m actively learning penetration testing and cybersecurity on TryHackMe. 
+Check my profile for verified room completions and badges.
 
-## Tools Used
-- Nmap
-- Metasploit
-- SMBClient
+Profile: https://tryhackme.com/p/Bishcyber
 
-## Steps
-1. Recon: Ran nmap -sV 10.10.x to find open ports.
-2. Exploitation: Used Metasploit module ms17_010_eternalblue.
-3. Post-Exploit: Retrieved user.txt and root.txt flags.
+## Completed Rooms
+- Intro to Pentesting – Learned recon, scanning, exploitation basics
+- Nmap – Network discovery and service enumeration  
+- Blue – Exploited SMB vulnerability using Metasploit
 
-## Screenshots
-Add screenshots here.
+## Skills Practiced
+- Linux & Windows enumeration
+- Nmap, Burp Suite, Metasploit
+- Privilege escalation basics
+- Report writing
 
-## What I Learned
-How to use Metasploit and understand SMB vulnerabilities.
+*Note: I don’t post full walkthroughs to respect THM rules. Full reports available on request.*
